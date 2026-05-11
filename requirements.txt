@@ -1,0 +1,10 @@
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-core
+langgraph
+pydantic
+python-dotenv
+faiss-cpu
+pypdf
+langchain-nvidia-ai-endpoints
